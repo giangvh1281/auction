@@ -1,3 +1,16 @@
+# About the project
+- User Participation:
+  - Users should be able to enter an ongoing auction by using a unique auction identifier.
+  - The platform must allow multiple participants to join and engage in the same auction event simultaneously.
+
+- Real-Time Bidding Updates:
+  - When a participant places a bid, the system should immediately reflect that bid and update the current auction price.
+  - The mechanism for determining the highest bidder and current price must be reliable and consistent to ensure fairness.
+
+- Live Auction Leaderboard:
+  - A live leaderboard (or current status display) should show the leading bidder and the highest bid at all times.
+  - The displayed information must refresh instantly whenever a new top bid is placed or any significant change occurs.
+
 # List of chosen technologies
 - Flask
   - Lightweight: Flask is a minimalistic web framework that’s easy to set up and extend
